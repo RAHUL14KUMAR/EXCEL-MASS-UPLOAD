@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kg0gasp+F4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agraw\\OneDrive\\Desktop\\excel\\dotnet\\ExcelApplication\\ExcelApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agraw\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\epplus\\8.7.1\\epplus.8.7.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\epplus.interfaces\\8.6.2\\epplus.interfaces.8.6.2.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\excelpackage\\1.0.0\\excelpackage.1.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.10\\microsoft.extensions.configuration.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.10\\microsoft.extensions.configuration.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.10\\microsoft.extensions.configuration.fileextensions.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.10\\microsoft.extensions.configuration.json.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.10\\microsoft.extensions.fileproviders.abstractions.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.10\\microsoft.extensions.fileproviders.physical.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.10\\microsoft.extensions.filesystemglobbing.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.10\\microsoft.extensions.primitives.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.10\\system.security.cryptography.pkcs.10.0.10.nupkg.sha512",
+    "C:\\Users\\agraw\\.nuget\\packages\\system.security.cryptography.xml\\10.0.10\\system.security.cryptography.xml.10.0.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\agraw\\OneDrive\\Desktop\\excel\\dotnet\\ExcelApplication\\ExcelApplication.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\agraw\\OneDrive\\Desktop\\excel\\dotnet\\ExcelApplication\\ExcelApplication.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'ExcelPackage 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net10.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\agraw\\OneDrive\\Desktop\\excel\\dotnet\\ExcelApplication\\ExcelApplication.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\agraw\\OneDrive\\Desktop\\excel\\dotnet\\ExcelApplication\\ExcelApplication.csproj",
+      "libraryId": "ExcelPackage",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
